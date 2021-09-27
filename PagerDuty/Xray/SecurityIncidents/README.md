@@ -30,7 +30,7 @@
 * JFrog Xray requires an Admin based role with administrative privileges to configure the integration.  If you do not have this role, please reach out to an Admin or Account Owner within your organization to configure the integration.
 
 # Support
-If you need help with this integration, please contact `partner_support@jfrog.com`
+If you need help with this integration, please contact `partner-support@jfrog.com`
 
 # Integration Walkthrough
 To add the integration, you must first have a PagerDuty account setup. Next, follow the instructions below or [watch the video](https://www.youtube.com/watch?v=WxUc8bcEh0U) to understand how to finish the integration.
