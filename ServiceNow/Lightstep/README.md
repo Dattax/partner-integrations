@@ -1,4 +1,4 @@
-# Welcome to the documentation for Lightstep and Xray
+# Welcome to the Documentation for Lightstep and Xray
 
 The integration between JFrog Xray and Lightstep provides organizations a way to manage incident response for security and license compliance issues. With this integration organizations can combine JFrog Xray application security code scanning with Lightstep’s intelligent incident response and management capabilities, to identify compliance and security issues earlier in their DevOps pipeline and engage the necessary teams for timely response and remediation.
 
